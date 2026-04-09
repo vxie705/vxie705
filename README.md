@@ -1,5 +1,5 @@
 # 🏛️ Josué - Aspiring Systems Engineer & Security Researcher 🛡️
-**Computer Science Student | Specialized in Low-Level C++ / Windows Internals**
+**Computer Science Student | Specialized in Low-Level C++ | C  / Windows Internals**
 
 ---
 
