@@ -31,7 +31,7 @@ I am a passionate CS student currently diving deep into the foundations of opera
 ### 📫 Connect with me:
 <p align="left">
 <a href="https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="josu3.pe"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+<a href="https://discord.gg/qRsHAueB"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 </p>
 
 ---
