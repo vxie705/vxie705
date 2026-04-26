@@ -35,7 +35,7 @@ I am a passionate CS student currently diving deep into the foundations of opera
 </p>
 
 ---
-![pngtree-matrix-code-abstract-programming-background-image_908363]([https://img2.wallspic.com/previews/9/8/7/2/7/172789/172789-anime-manga-caricatura-animacion-manga_shonen-x750.jpg))
+![Anime Banner](https://img2.wallspic.com/previews/9/8/7/2/7/172789/172789-anime-manga-caricatura-animacion-manga_shonen-x750.jpg)
 
 
 
