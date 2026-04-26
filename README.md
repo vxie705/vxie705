@@ -35,7 +35,7 @@ I am a passionate CS student currently diving deep into the foundations of opera
 </p>
 
 ---
-![pngtree-matrix-code-abstract-programming-background-image_908363]([https://github.com/user-attachments/assets/c9ccd349-17d7-4029-a85e-67765ff55678](https://github.com/vxie705/vxie705/blob/main/desktop-wallpaper-ultra-anime-anime-pc.jpg?raw=true))
+![pngtree-matrix-code-abstract-programming-background-image_908363]([file:///C:\Users\USER\Downloads/desktop-wallpaper-ultra-anime-anime-pc))
 
 
 
