@@ -15,7 +15,7 @@ I am a passionate CS student currently diving deep into the foundations of opera
 ### 🛠️ Technical Arsenal
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,windows,linux,bash,cmake,visualstudio,powershell,github,git,kali,discord" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,windows,linux,bash,cmake,visualstudio,powershell,github,git,arch,dotnet,java,js,mysql,vscode,bots,discord," />
   </a>
 </p>
 
